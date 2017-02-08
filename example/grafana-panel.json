@@ -2,7 +2,6 @@
   "annotations": {
     "list": []
   },
-  "editMode": false,
   "editable": true,
   "gnetId": null,
   "graphTooltip": 0,
@@ -130,8 +129,8 @@
     "list": []
   },
   "time": {
-    "from": "2017-02-08T20:20:19.076Z",
-    "to": "2017-02-08T21:14:04.195Z"
+    "from": "now-1h",
+    "to": "now"
   },
   "timepicker": {
     "refresh_intervals": [
@@ -160,5 +159,5 @@
   },
   "timezone": "browser",
   "title": "Temperature",
-  "version": 4
+  "version": 5
 }
