@@ -18,10 +18,10 @@ If you want it to run in background and "-d" flag
 
 Grafana web interface is available at http://localhost:3000/ (default credentials: admin/admin).
 Create new datasource:
-![Grafana data source](docs/screenshots/grafana-data-source.png?raw=true)
+![Grafana data source](docs/images/grafana-data-source.png?raw=true)
 
 In examples directory you'll find grafana-panel.json, you can use it to quickly create first dashboard:
-![Grafana dashboard import](docs/screenshots/grafana-dashboard-import.png?raw=true)
+![Grafana dashboard import](docs/images/grafana-dashboard-import.png?raw=true)
 
 
 ### Influx
